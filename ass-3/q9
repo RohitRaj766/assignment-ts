@@ -1,0 +1,22 @@
+// interface ProcessIdentity<T, U> {
+//     value: T;
+//     message: U;
+//     process: () => T;
+// }
+
+// class Candentity<X, Y> implements ProcessIdentity<X, Y> {
+//     value: X;
+//     message: Y;
+
+//     constructor(value: X, message: Y) {
+//         this.value = value;
+//         this.message = message;
+//     }
+
+//     process(): X {
+//         // Some processing logic here
+//         return this.value;
+//     }
+// }
+
+// const newIdentity = new Candentity<number, string>(10, "Success");
