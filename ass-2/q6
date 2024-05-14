@@ -1,0 +1,11 @@
+// interface IceCream {
+//     flavor: string;
+//     scoops: number;
+// }
+
+// const nyzzeCream: IceCream = {
+//     flavor: 'Vanilla',
+//     scoops: 3
+// };
+
+// console.log(nyzzeCream.flavor);

@@ -1,0 +1,32 @@
+// class Car {
+//     color: string;
+//     doors: number;
+
+//     constructor(color: string, doors: number = 4) {
+//         this.color = color;
+//         this.doors = doors;
+//     }
+
+//     accelerate(speed: number): string {
+//         return `The car accelerates at ${speed} mph.`;
+//     }
+
+//     brake(): string {
+//         return "The car is braking.";
+//     }
+
+//     turn(direction: 'left' | 'right'): string {
+//         return `The car turns ${direction}.`;
+//     }
+
+//     worker(): string {
+//         return "The car is in working condition.";
+//     }
+// }
+
+// // Example usage
+// const myCar = new Car("red", 2);
+// console.log(myCar.accelerate(60));
+// console.log(myCar.brake());
+// console.log(myCar.turn("right"));
+// console.log(myCar.worker());
